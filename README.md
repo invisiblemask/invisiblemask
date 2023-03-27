@@ -1,19 +1,8 @@
-### Hi there 👋, My name is Kelechi Okeke, and I'm a web developer with over 3 years of experience in building web applications. I'm proficient in JavaScript, React, Next, Node, and TypeScript.
+### Hi there 👋, I'm a software developer with 3 years of experience, specializing in front-end development using technologies such as JavaScript, React, Next.js, and TypeScript, as well as back-end development using Node.js.
 
-**Skills**
-**JavaScript**: I have a strong foundation in JavaScript, including ES6+ features, and can use it to create complex web applications.
-
-**React**: I'm experienced in building scalable and maintainable web applications using React. I can create components, manage state, handle lifecycle methods, and use React hooks effectively.
-
-**Next**: I've worked extensively with Next.js, building server-rendered applications, dynamic routing, and API routes. I'm familiar with features like static site generation, incremental static regeneration, and server-side rendering.
-
-**Node**: I'm skilled in building backend APIs using Node.js, Express, and other popular Node frameworks. I'm familiar with creating RESTful APIs, handling authentication, and integrating with databases like MongoDB.
-
-**TypeScript**: I've worked with TypeScript and understand its benefits, including static typing, code maintainability, and improved developer experience.
-
-If you're interested in working together or have any questions, feel free to reach out to me at [YOUR EMAIL] or connect with me on [YOUR LINKEDIN PROFILE].
-
-Thanks for stopping by!
+My passion for software development began with an early interest in creating interactive and dynamic web applications, which led me to specialize in front-end development. I enjoy working with modern web technologies and frameworks, and I strive to create intuitive and engaging user experiences.
+Over the past three years, I've had the opportunity to work on a variety of projects, ranging from small-scale web applications to large-scale enterprise solutions. Through these experiences, I've developed strong problem-solving skills, as well as a keen eye for detail and a dedication to writing clean, maintainable code.
+I'm always looking to learn and grow as a developer, and I'm excited to continue exploring new technologies and approaches to software development. If you're interested in collaborating or learning more about my work, please don't hesitate to get in touch!
 
 <!--
 **invisiblemask/invisiblemask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
